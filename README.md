@@ -1,4 +1,4 @@
-# cs312-S2019-participation-starters
+# cs312_participation_starters
 
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the starter files for course activities and /or practicals.
@@ -11,7 +11,7 @@ This repository contains all participation activities for the course. See partic
 When the course instructor provides the new material for the in-class activity, you can type this command in the main directory for this repository to pull the new material:
 
 ```
-git remote add download git@github.com:Allegheny-Computer-Science-102-F2018/cs102_participation_starters
+git remote add download git@github.com:Allegheny-Computer-Science-312-S2019/cs102_participation_starters
 ```
 
 You should only need to type this command once; typing the command additional times may yield an error message but will not negatively influence the state of your repository. Now, you are ready to download the updates provided by the course instructor by typing:
